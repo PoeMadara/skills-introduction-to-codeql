@@ -3,6 +3,7 @@
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
   TBD-step-2-notes.
+  
 -->
 
 ## Step 2: Review and Triage CodeQL Alerts
